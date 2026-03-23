@@ -317,6 +317,9 @@
 
                 // iPhone Air
                 @[@18, @4]: @[@(GBDeviceModeliPhoneAir), @"iPhone Air", @(GBDeviceDisplay6p6Inch), @460],
+
+                // 17e
+                @[@18, @5]: @[@(GBDeviceModeliPhone17e), @"iPhone 17e", @(GBDeviceDisplay6p1Inch), @460],
             },
             @"iPad": @{
                 // 1
@@ -521,6 +524,14 @@
                 // iPad Pro 13-inch 8th Gen (M5), 2025
                 @[@17, @3]: @[@(GBDeviceModeliPadPro13Inch8), @"iPad Pro 8th Gen (13 inch, WiFi)", @(GBDeviceDisplay13Inch), @264],
                 @[@17, @4]: @[@(GBDeviceModeliPadPro13Inch8), @"iPad Pro 8th Gen (13 inch, WiFi+Cellular)", @(GBDeviceDisplay13Inch), @264],
+
+                // iPad Air 11-inch M4, 2026
+                @[@16, @8]: @[@(GBDeviceModeliPadAir11InchM4), @"iPad Air 11-inch M4 (WiFi)", @(GBDeviceDisplay11Inch), @264],
+                @[@16, @9]: @[@(GBDeviceModeliPadAir11InchM4), @"iPad Air 11-inch M4 (WiFi+Cellular)", @(GBDeviceDisplay11Inch), @264],
+
+                // iPad Air 13-inch M4, 2026
+                @[@16, @10]: @[@(GBDeviceModeliPadAir13InchM4), @"iPad Air 13-inch M4 (WiFi)", @(GBDeviceDisplay13Inch), @264],
+                @[@16, @11]: @[@(GBDeviceModeliPadAir13InchM4), @"iPad Air 13-inch M4 (WiFi+Cellular)", @(GBDeviceDisplay13Inch), @264],
 
             },
             @"iPod": @{
